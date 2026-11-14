@@ -1,0 +1,11 @@
+Feature,Importance
+numbers__Weight_in_gms,0.2965602853733174
+numbers__Discount_offered,0.23182912240375733
+numbers__Cost_of_the_Product,0.19331698016801407
+numbers__Prior_purchases,0.06564294588472572
+numbers__Customer_care_calls,0.06109540794606892
+categories__Warehouse_block_F,0.014806173991267976
+categories__Mode_of_Shipment_Ship,0.01291091545312583
+categories__Warehouse_block_A,0.01237297062935774
+categories__Warehouse_block_C,0.012278444338814866
+categories__Gender_F,0.012225710258377726
